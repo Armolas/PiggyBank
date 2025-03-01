@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
+
+# CONTRACT
+Contract verified at [basescan](https://sepolia.basescan.org/address/0xCB5f2430Fea0dc076d8a5B60f59552693890bE52#code)
